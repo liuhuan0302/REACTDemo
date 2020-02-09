@@ -1,0 +1,35 @@
+#components-layout-demo-top-side-2 .logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 28px 16px 0;
+    float: left;
+  }
+.ant-layout-header{
+    height:100px;
+    display:flex;
+    align-items: center;
+}
+.ant-layout{
+    height:100%;
+}
+
+.admin-logo{
+    height:60px;
+    width:60px;
+}
+.admin-title{
+    margin-left:15px;
+    color:#fff;
+}
+.admin-title h1{
+    font-size:20px;
+    font-size:18px;
+    line-height:20px;
+    color:#fff;
+}
+
+.admin-title p{
+    font-size: 14px;
+    line-height:30px;
+}

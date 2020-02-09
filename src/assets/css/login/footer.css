@@ -1,0 +1,10 @@
+.about{
+    display: flex;
+    justify-content: center;
+    font-size:12px;
+}
+.copyright{
+    font-size: 12px;
+    margin-top:15px;
+    text-align:center;
+}
